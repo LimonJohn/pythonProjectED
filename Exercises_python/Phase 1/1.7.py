@@ -1,3 +1,4 @@
+# 1.7 Парты
 import math
 a = int(input('Класс a'))
 b = int(input('Класс b'))
