@@ -6,5 +6,15 @@
 #### 2. Условия
 - Минимум из двух чисел
 [[Решение](Exercises_python/Phase_1/2.1.py)]
-- 
-[[Решение]()]
+- Знак числа
+[[Решение](Exercises_python/Phase_1/2.2.py)]
+- Шахматная доска
+[[Решение](Exercises_python/Phase_1/2.3.py)]
+- Високосный год
+[[Решение](Exercises_python/Phase_1/2.4.py)]
+- Минимум из трех чисел
+[[Решение](Exercises_python/Phase_1/2.5.py)]
+  
+-
+[[]()]
+
