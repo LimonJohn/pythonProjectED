@@ -1,8 +1,14 @@
-# 2.7 Сколько совпадает чисел
-from collections import Counter
+# 2.6 Сколько совпадает чисел
 
-s = input().split()
-for i in range(len(s)):
-    s[i] = int(s[i])
-mfn = Counter(s).most_common(1)
-print(mfn[:1])
+# s = input().split()
+# for i in range(len(s)):
+#     s[i] = int(s[i])
+s = []
+for i in range(3):
+    s.append((input()))
+if s[0] == s[1] == s[2]:
+    print(3)
+elif s[0] == s[1] or s[1] == s[2] or s[0] == s[2]:
+    print(2)
+else:
+    print(0)

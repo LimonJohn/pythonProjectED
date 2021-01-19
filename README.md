@@ -14,7 +14,23 @@
 [[Решение](Exercises_python/Phase_1/2.4.py)]
 - Минимум из трех чисел
 [[Решение](Exercises_python/Phase_1/2.5.py)]
-  
+- Сколько совпадает чисел
+[[Решение](Exercises_python/Phase_1/2.6.py)]
+- Ход ладьи
+[[Решение](Exercises_python/Phase_1/2.7.py)]
+- Ход короля
+[[Решение](Exercises_python/Phase_1/2.8.py)]
+- Ход слона
+[[Решение](Exercises_python/Phase_1/2.9.py)]
+- Ход ферзя
+[[Решение](Exercises_python/Phase_1/2.10.py)]
+- Ход коня
+[[Решение](Exercises_python/Phase_1/2.11.py)]
 -
-[[]()]
+[[Решение]()]
+-
+[[Решение]()]
+-
+[[Решение]()]
+
 
