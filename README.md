@@ -34,5 +34,23 @@
 #### 3. Вычисления
 - Последняя цифра числа
 [[Решение](Exercises_python/Phase_1/3.1.py)]
-
+- МКАД
+[[Решение](Exercises_python/Phase_1/3.2.py)]
+- Дробная часть
+[[Решение](Exercises_python/Phase_1/3.3.py)]
+- Первая цифра после точки
+[[Решение](Exercises_python/Phase_1/3.4.py)]
+- 
+[[Решение](Exercises_python/Phase_1/3.5.py)]
+- 
+[[Решение](Exercises_python/Phase_1/3.6.py)]
+-
+[[Решение](Exercises_python/Phase_1/3.7.py)]
+-
+[[Решение](Exercises_python/Phase_1/3.8.py)]
+-
+[[Решение](Exercises_python/Phase_1/3.9.py)]
+-
+[[Решение](Exercises_python/Phase_1/3.10.py)]
+                  
 
