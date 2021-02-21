@@ -40,17 +40,27 @@
 [[Решение](Exercises_python/Phase_1/3.3.py)]
 - Первая цифра после точки
 [[Решение](Exercises_python/Phase_1/3.4.py)]
-- 
+- Конец уроков
 [[Решение](Exercises_python/Phase_1/3.5.py)]
-- 
+- Автопробег
 [[Решение](Exercises_python/Phase_1/3.6.py)]
--
+- Стоимость покупки
 [[Решение](Exercises_python/Phase_1/3.7.py)]
--
+- Разность времен
 [[Решение](Exercises_python/Phase_1/3.8.py)]
--
+- Улитка
 [[Решение](Exercises_python/Phase_1/3.9.py)]
--
+- Число десятков
 [[Решение](Exercises_python/Phase_1/3.10.py)]
-                  
-
+- Сумма цифр
+[[Решение](Exercises_python/Phase_1/3.11.py)]
+- Гипотенуза
+[[Решение](Exercises_python/Phase_1/3.12.py)]
+- Часы - 1
+[[Решение](Exercises_python/Phase_1/3.13.py)]
+- Часы - 2
+[[Решение](Exercises_python/Phase_1/3.14.py)]
+- Часы - 3
+[[Решение](Exercises_python/Phase_1/3.15.py)]
+- Проценты
+[[Решение](Exercises_python/Phase_1/3.16.py)]
