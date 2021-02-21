@@ -1,5 +1,6 @@
 # 3.16 Задача «Проценты»
 from math import floor
+
 P = int(input())
 X = int(input())
 Y = int(input())

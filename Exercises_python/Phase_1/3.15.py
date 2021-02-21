@@ -1,5 +1,6 @@
 # 3.15 Задача «Часы - 3»
 from math import floor
+
 alpha = float(input())
 h = floor(alpha / 30)
 m = floor(alpha % 30 * 2)

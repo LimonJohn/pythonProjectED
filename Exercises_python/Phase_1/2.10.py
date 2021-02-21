@@ -6,7 +6,7 @@ if s[0] == s[2] or s[1] == s[3]:
     print('YES')
 elif abs(s[0] - s[2]) <= 1 and abs(s[1] - s[3]) <= 1:
     print('YES')
-elif abs(s[0] - s[2]) == abs(s[1]-s[3]):
+elif abs(s[0] - s[2]) == abs(s[1] - s[3]):
     print('YES')
 else:
     print('NO')
