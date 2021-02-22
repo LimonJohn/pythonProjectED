@@ -64,3 +64,27 @@
 [[Решение](Exercises_python/Phase_1/3.15.py)]
 - Проценты
 [[Решение](Exercises_python/Phase_1/3.16.py)]
+  
+#### 4. Цикл for
+- Ряд - 1
+[[Решение](Exercises_python/Phase_1/4.1.py)]
+- Ряд - 2
+[[Решение](Exercises_python/Phase_1/4.2.py)]
+- Ряд - 3
+[[Решение](Exercises_python/Phase_1/4.3.py)]
+- Сумма десяти чисел
+[[Решение](Exercises_python/Phase_1/4.4.py)]
+- Сумма N чисел 
+[[Решение](Exercises_python/Phase_1/4.5.py)]
+- Сумма кубов 
+[[Решение](Exercises_python/Phase_1/4.6.py)]
+- Факториал 
+[[Решение](Exercises_python/Phase_1/4.7.py)]
+- Сумма факториалов 
+[[Решение](Exercises_python/Phase_1/4.8.py)]
+- Количество нулей
+[[Решение](Exercises_python/Phase_1/4.9.py)]
+- Лесенка 
+[[Решение](Exercises_python/Phase_1/4.10.py)]
+- Потерянная карточка
+[[Решение](Exercises_python/Phase_1/4.11.py)]
