@@ -7,6 +7,8 @@
 [[Решение](Exercises_python/Phase_1/1.6.py)]
 - Парты
 [[Решение](Exercises_python/Phase_1/1.7.py)]
+- Шнурки
+[[Решение](Exercises_python/Phase_1/1.8.py)]
 
 #### 2. Условия
 - Минимум из двух чисел
