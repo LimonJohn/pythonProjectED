@@ -1,7 +1,12 @@
 ## Python
 ### Задачки с сайта [pythontutor](http://pythontutor.ru)
 #### 1. Ввод и вывод данных 
-- Парты [[Решение](Exercises_python/Phase_1/1.7.py)]
+- Электронные часы 
+[[Решение](Exercises_python/Phase_1/1.4.py)]
+- Следующее и предыдущее
+[[Решение](Exercises_python/Phase_1/1.6.py)]
+- Парты
+[[Решение](Exercises_python/Phase_1/1.7.py)]
 
 #### 2. Условия
 - Минимум из двух чисел
