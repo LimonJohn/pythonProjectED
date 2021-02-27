@@ -1,7 +1,5 @@
 # 2.3 Шахматная доска
-from typing import List
-
-a: List[int] = []
+a = []
 for i in range(4):
     a.append(int(input()))
 if a[0] % 2 == 0 and a[1] % 2 == 0 or a[0] % 2 != 0 and a[1] % 2 != 0:
