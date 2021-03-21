@@ -95,3 +95,31 @@
 [[Решение](Exercises_python/Phase_1/4.10.py)]
 - Потерянная карточка
 [[Решение](Exercises_python/Phase_1/4.11.py)]
+
+#### 5. Строки
+- Делаем срезы
+[[Решение](Exercises_python/Phase_1/5.1.py)]
+- Количество слов
+[[Решение](Exercises_python/Phase_1/5.2.py)]
+- Две половинки
+[[Решение](Exercises_python/Phase_1/5.3.py)]
+- Переставить два слова
+[[Решение](Exercises_python/Phase_1/5.4.py)]
+- Первое и последнее вхождения
+[[Решение](Exercises_python/Phase_1/5.5.py)]
+- Второе вхождение
+[[Решение](Exercises_python/Phase_1/5.6.py)]
+- Удаление фрагмента
+[[Решение](Exercises_python/Phase_1/5.7.py)]
+- Обращение фрагмента
+[[Решение](Exercises_python/Phase_1/5.8.py)]
+- Замена подстроки
+[[Решение](Exercises_python/Phase_1/5.9.py)]
+- Удаление символа
+[[Решение](Exercises_python/Phase_1/5.10.py)]
+- Замена внутри фрагмента
+[[Решение](Exercises_python/Phase_1/5.11.py)]
+- Удалить каждый третий символ
+[[Решение](Exercises_python/Phase_1/5.12.py)]
+  
+#### 6. Цикл while
