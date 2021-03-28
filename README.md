@@ -123,3 +123,9 @@
 [[Решение](Exercises_python/Phase_1/5.12.py)]
   
 #### 6. Цикл while
+- Список квадратов
+[[Решение](Exercises_python/Phase_1/6.1.py)]
+- Минимальный делитель
+[[Решение](Exercises_python/Phase_1/6.2.py)]
+- Степень двойки
+[[Решение](Exercises_python/Phase_1/6.3.py)]
