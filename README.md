@@ -129,3 +129,31 @@
 [[Решение](Exercises_python/Phase_1/6.2.py)]
 - Степень двойки
 [[Решение](Exercises_python/Phase_1/6.3.py)]
+- Утренняя пробежка
+[[Решение](Exercises_python/Phase_1/6.4.py)]
+- Длина последовательности
+[[Решение](Exercises_python/Phase_1/6.5.py)]
+- Сумма последовательности
+[[Решение](Exercises_python/Phase_1/6.6.py)]
+- Среднее значение последовательности
+[[Решение](Exercises_python/Phase_1/6.7.py)]
+- Максимум последовательности
+[[Решение](Exercises_python/Phase_1/6.8.py)]
+- Индекс максимума последовательности
+[[Решение](Exercises_python/Phase_1/6.9.py)]
+-
+[[Решение](Exercises_python/Phase_1/6.10.py)]
+-
+[[Решение](Exercises_python/Phase_1/6.11.py)]
+-
+[[Решение](Exercises_python/Phase_1/6.12.py)]
+-
+[[Решение](Exercises_python/Phase_1/6.13.py)]
+-
+[[Решение](Exercises_python/Phase_1/6.14.py)]
+-
+[[Решение](Exercises_python/Phase_1/6.15.py)]
+-
+[[Решение](Exercises_python/Phase_1/6.16.py)]
+-
+[[Решение](Exercises_python/Phase_1/6.17.py)]
