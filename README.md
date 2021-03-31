@@ -149,11 +149,11 @@
 [[Решение](Exercises_python/Phase_1/6.12.py)]
 - Количество элементов, равных максимуму
 [[Решение](Exercises_python/Phase_1/6.13.py)]
--
+- Числа Фибоначчи
 [[Решение](Exercises_python/Phase_1/6.14.py)]
--
+- Номер числа Фибоначчи
 [[Решение](Exercises_python/Phase_1/6.15.py)]
--
+- Максимальное число идущих подряд равных элементов
 [[Решение](Exercises_python/Phase_1/6.16.py)]
--
+- Стандартное отклонение
 [[Решение](Exercises_python/Phase_1/6.17.py)]
