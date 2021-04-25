@@ -157,3 +157,29 @@
 [[Решение](Exercises_python/Phase_1/6.16.py)]
 - Стандартное отклонение
 [[Решение](Exercises_python/Phase_1/6.17.py)]
+
+#### 7. Списки
+- Стандартное отклонение
+[[Решение](Exercises_python/Phase_1/6.17.py)]
+  - Стандартное отклонение
+[[Решение](Exercises_python/Phase_1/6.17.py)]
+    - Стандартное отклонение
+[[Решение](Exercises_python/Phase_1/6.17.py)]
+      - Стандартное отклонение
+[[Решение](Exercises_python/Phase_1/6.17.py)]
+        - Стандартное отклонение
+[[Решение](Exercises_python/Phase_1/6.17.py)]
+          - Стандартное отклонение
+[[Решение](Exercises_python/Phase_1/6.17.py)]
+            - Стандартное отклонение
+[[Решение](Exercises_python/Phase_1/6.17.py)]
+              - Стандартное отклонение
+[[Решение](Exercises_python/Phase_1/6.17.py)]
+                - Стандартное отклонение
+[[Решение](Exercises_python/Phase_1/6.17.py)]
+                  - Стандартное отклонение
+[[Решение](Exercises_python/Phase_1/6.17.py)]
+                    - Стандартное отклонение
+[[Решение](Exercises_python/Phase_1/6.17.py)]
+                      - Стандартное отклонение
+[[Решение](Exercises_python/Phase_1/6.17.py)]
