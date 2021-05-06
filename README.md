@@ -159,27 +159,35 @@
 [[Решение](Exercises_python/Phase_1/6.17.py)]
 
 #### 7. Списки
-- Стандартное отклонение
-[[Решение](Exercises_python/Phase_1/6.17.py)]
-  - Стандартное отклонение
-[[Решение](Exercises_python/Phase_1/6.17.py)]
-    - Стандартное отклонение
-[[Решение](Exercises_python/Phase_1/6.17.py)]
-      - Стандартное отклонение
-[[Решение](Exercises_python/Phase_1/6.17.py)]
-        - Стандартное отклонение
-[[Решение](Exercises_python/Phase_1/6.17.py)]
-          - Стандартное отклонение
-[[Решение](Exercises_python/Phase_1/6.17.py)]
-            - Стандартное отклонение
-[[Решение](Exercises_python/Phase_1/6.17.py)]
-              - Стандартное отклонение
-[[Решение](Exercises_python/Phase_1/6.17.py)]
-                - Стандартное отклонение
-[[Решение](Exercises_python/Phase_1/6.17.py)]
-                  - Стандартное отклонение
-[[Решение](Exercises_python/Phase_1/6.17.py)]
-                    - Стандартное отклонение
-[[Решение](Exercises_python/Phase_1/6.17.py)]
-                      - Стандартное отклонение
-[[Решение](Exercises_python/Phase_1/6.17.py)]
+- Четные индексы
+[[Решение](Exercises_python/Phase_1/7.1.py)]
+- Четные элементы
+[[Решение](Exercises_python/Phase_1/7.2.py)]
+- Больше предыдущего
+[[Решение](Exercises_python/Phase_1/7.3.py)]
+- Соседи одного знака
+[[Решение](Exercises_python/Phase_1/7.4.py)]
+- Больше своих соседей
+[[Решение](Exercises_python/Phase_1/7.5.py)]
+- 
+[[Решение](Exercises_python/Phase_1/7.6.py)]
+- 
+[[Решение](Exercises_python/Phase_1/7.7.py)]
+- 
+[[Решение](Exercises_python/Phase_1/7.8.py)]
+- 
+[[Решение](Exercises_python/Phase_1/7.9.py)]
+- 
+[[Решение](Exercises_python/Phase_1/7.10.py)]
+- 
+[[Решение](Exercises_python/Phase_1/7.11.py)]
+- 
+[[Решение](Exercises_python/Phase_1/7.12.py)]
+- 
+[[Решение](Exercises_python/Phase_1/7.13.py)]
+- 
+[[Решение](Exercises_python/Phase_1/7.14.py)]
+- 
+[[Решение](Exercises_python/Phase_1/7.15.py)]
+- 
+[[Решение](Exercises_python/Phase_1/7.16.py)]
