@@ -169,15 +169,15 @@
 [[Решение](Exercises_python/Phase_1/7.4.py)]
 - Больше своих соседей
 [[Решение](Exercises_python/Phase_1/7.5.py)]
-- 
+- Наибольший элемент
 [[Решение](Exercises_python/Phase_1/7.6.py)]
-- 
+- Шеренга
 [[Решение](Exercises_python/Phase_1/7.7.py)]
-- 
+- Количество различных элементов
 [[Решение](Exercises_python/Phase_1/7.8.py)]
-- 
+- Переставить соседние
 [[Решение](Exercises_python/Phase_1/7.9.py)]
-- 
+- Переставить min и max
 [[Решение](Exercises_python/Phase_1/7.10.py)]
 - 
 [[Решение](Exercises_python/Phase_1/7.11.py)]
