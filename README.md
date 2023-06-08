@@ -179,15 +179,3 @@
 [[Решение](Exercises_python/Phase_1/7.9.py)]
 - Переставить min и max
 [[Решение](Exercises_python/Phase_1/7.10.py)]
-- Удалить элемент
-[[Решение](Exercises_python/Phase_1/7.11.py)]
-- Вставить элемент
-[[Решение](Exercises_python/Phase_1/7.12.py)]
-- Количество совпадающих пар
-[[Решение](Exercises_python/Phase_1/7.13.py)]
-- Уникальные элементы
-[[Решение](Exercises_python/Phase_1/7.14.py)]
-- Кегельбан
-[[Решение](Exercises_python/Phase_1/7.15.py)]
-- Ферзи
-[[Решение](Exercises_python/Phase_1/7.16.py)]
